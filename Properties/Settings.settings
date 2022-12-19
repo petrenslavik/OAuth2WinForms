@@ -1,0 +1,15 @@
+﻿<?xml version='1.0' encoding='utf-8'?>
+<SettingsFile xmlns="http://schemas.microsoft.com/VisualStudio/2004/01/settings" CurrentProfile="(Default)" GeneratedClassNamespace="AuthApp.Properties" GeneratedClassName="Settings">
+  <Profiles />
+  <Settings>
+    <Setting Name="RefreshToken" Type="System.String" Scope="User">
+      <Value Profile="(Default)" />
+    </Setting>
+    <Setting Name="Auth0Domain" Type="System.String" Scope="Application">
+      <Value Profile="(Default)">dev-13haosfdj7v4tele.us.auth0.com</Value>
+    </Setting>
+    <Setting Name="Auth0ClientId" Type="System.String" Scope="Application">
+      <Value Profile="(Default)">kPYyaRzG1OcqMOkgsXgFOSpiW5pJIX38</Value>
+    </Setting>
+  </Settings>
+</SettingsFile>
